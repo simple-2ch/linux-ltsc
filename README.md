@@ -23,6 +23,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Установка системы**
 
 Поихали! Пикча за пикчей, плюс некоторые пояснения, когда они будут необходимы. Логины пароли вводишь свои.
+
 ![alt text](https://github.com/simple-2ch/linux-ltsc/blob/main/images/1.jpg?raw=true)
 ![alt text](https://github.com/simple-2ch/linux-ltsc/blob/main/images/2.jpg?raw=true)
 ![alt text](https://github.com/simple-2ch/linux-ltsc/blob/main/images/3.jpg?raw=true)
@@ -30,9 +31,11 @@
 ![alt text](https://github.com/simple-2ch/linux-ltsc/blob/main/images/5.jpg?raw=true)
 
 Здесь тебе предложат подключиться к интернетам, но сейчас это не требуется.
+
 ![alt text](https://github.com/simple-2ch/linux-ltsc/blob/main/images/6.jpg?raw=true)
 
 Оставляешь пустым.
+
 ![alt text](https://github.com/simple-2ch/linux-ltsc/blob/main/images/7.jpg?raw=true)
 ![alt text](https://github.com/simple-2ch/linux-ltsc/blob/main/images/8.jpg?raw=true)
 ![alt text](https://github.com/simple-2ch/linux-ltsc/blob/main/images/9.jpg?raw=true)
@@ -41,52 +44,66 @@
 ![alt text](https://github.com/simple-2ch/linux-ltsc/blob/main/images/12.jpg?raw=true)
 
 Размечать надо вручную.
+
 ![alt text](https://github.com/simple-2ch/linux-ltsc/blob/main/images/13.jpg?raw=true)
 
 Далее два пути. Первый - удаляешь все разделы и прощаешься с шиндоус.
+
 ![alt text](https://github.com/simple-2ch/linux-ltsc/blob/main/images/14.00.jpg?raw=true)
 ![alt text](https://github.com/simple-2ch/linux-ltsc/blob/main/images/14.01.jpg?raw=true)
 
 В результате чистый хард.
+
 ![alt text](https://github.com/simple-2ch/linux-ltsc/blob/main/images/14.02.jpg?raw=true)
 
 Второй путь - обрезаем раздел с шиндоус и ставим на освободившееся место линукс.
+
 ![alt text](https://github.com/simple-2ch/linux-ltsc/blob/main/images/14.11.jpg?raw=true)
 ![alt text](https://github.com/simple-2ch/linux-ltsc/blob/main/images/14.12.jpg?raw=true)
 
 Здесь ты указываешь, сколько места оставляешь винде.
+
 ![alt text](https://github.com/simple-2ch/linux-ltsc/blob/main/images/14.13.jpg?raw=true)
 
 В результате имеем свободное место в конце диска. Где ты создаёшь...
+
 ![alt text](https://github.com/simple-2ch/linux-ltsc/blob/main/images/14.14.jpg?raw=true)
 
 Создаёшь раздел Ext4.
+
 ![alt text](https://github.com/simple-2ch/linux-ltsc/blob/main/images/15.jpg?raw=true)
 ![alt text](https://github.com/simple-2ch/linux-ltsc/blob/main/images/16.jpg?raw=true)
 ![alt text](https://github.com/simple-2ch/linux-ltsc/blob/main/images/17.jpg?raw=true)
 ![alt text](https://github.com/simple-2ch/linux-ltsc/blob/main/images/18.jpg?raw=true)
 
 Записываешь изменения на диск.
+
 ![alt text](https://github.com/simple-2ch/linux-ltsc/blob/main/images/19.jpg?raw=true)
 
 Раздел подкачки не создаёшь. Для этого потом будет создан своп файл.
+
 ![alt text](https://github.com/simple-2ch/linux-ltsc/blob/main/images/20.jpg?raw=true)
 ![alt text](https://github.com/simple-2ch/linux-ltsc/blob/main/images/21.jpg?raw=true)
 ![alt text](https://github.com/simple-2ch/linux-ltsc/blob/main/images/22.jpg?raw=true)
 
 Здесь жмёшь вернуться.
+
 ![alt text](https://github.com/simple-2ch/linux-ltsc/blob/main/images/23.jpg?raw=true)
 
 Продолжаешь установку системы с минимальными возможностями.
+
 ![alt text](https://github.com/simple-2ch/linux-ltsc/blob/main/images/24.jpg?raw=true)
 ![alt text](https://github.com/simple-2ch/linux-ltsc/blob/main/images/25.jpg?raw=true)
 
 Стандартные утилиты не нужон. Потом сам накатишь, что действительно потребуется.
+
 ![alt text](https://github.com/simple-2ch/linux-ltsc/blob/main/images/26.jpg?raw=true)
 
 This появится, если не было загрузчика шиндоус. Выбираешь хард, на который сейчас устанавливаешь систему.
+
 ![alt text](https://github.com/simple-2ch/linux-ltsc/blob/main/images/27.jpg?raw=true)
 ![alt text](https://github.com/simple-2ch/linux-ltsc/blob/main/images/28.jpg?raw=true)
+
 Готово! Вытаскиваешь флешку, жмёшь продолжить, перезагружаешься. Если устанавливал начисто, увидишь Grub. Если дуалбут с виндой, заходишь в boot menu, выбираешь debian. Загрузится консоль.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Установка графического окружения**
