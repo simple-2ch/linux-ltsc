@@ -6,6 +6,8 @@ cat << EOF > /etc/apt/sources.list
 deb http://security.debian.org/debian-security testing-security main contrib non-free
 # Testing repository main, contrib and non-free branches
 deb http://deb.debian.org/debian testing main contrib non-free
+# Stable repository main, contrib and non-free branches
+deb http://deb.debian.org/debian stable main contrib non-free
 EOF
 
 # Install KDE Plasma and minimal software
